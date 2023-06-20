@@ -1,0 +1,15 @@
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\bin\Debug\net6.0\PemogramanMinggu10.exe
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\bin\Debug\net6.0\PemogramanMinggu10.deps.json
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\bin\Debug\net6.0\PemogramanMinggu10.runtimeconfig.json
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\bin\Debug\net6.0\PemogramanMinggu10.dll
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\bin\Debug\net6.0\PemogramanMinggu10.pdb
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\obj\Debug\net6.0\PemogramanMinggu10.csproj.AssemblyReference.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\obj\Debug\net6.0\PemogramanMinggu10.GeneratedMSBuildEditorConfig.editorconfig
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\obj\Debug\net6.0\PemogramanMinggu10.AssemblyInfoInputs.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\obj\Debug\net6.0\PemogramanMinggu10.AssemblyInfo.cs
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\obj\Debug\net6.0\PemogramanMinggu10.csproj.CoreCompileInputs.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\obj\Debug\net6.0\PemogramanMinggu10.dll
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\obj\Debug\net6.0\refint\PemogramanMinggu10.dll
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\obj\Debug\net6.0\PemogramanMinggu10.pdb
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\obj\Debug\net6.0\PemogramanMinggu10.genruntimeconfig.cache
+D:\22.11.4825_Pemograman\Pemograman Minggu 10\PemogramanMinggu10\PemogramanMinggu10\obj\Debug\net6.0\ref\PemogramanMinggu10.dll
